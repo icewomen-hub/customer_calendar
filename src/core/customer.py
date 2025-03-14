@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pandas as pd
 
 class Customer:
@@ -24,6 +25,6 @@ class Customer:
 kunde = Customer()
 print(kunde)
            
-# Beispiel: Filtere Kunden, deren Alter zwischen 30 und 40 Jahren liegt
-#filtered_customers = kunde.filter_between('Alter', 30, 40)
+# Zum Beispiel: Filtere Kunden, deren ID zwischen 1 und 10 liegt
+#filtered_customers = kunde.filter_between('id', 1, 10)
 #print(filtered_customers)
