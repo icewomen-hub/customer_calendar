@@ -26,7 +26,8 @@ class App:
             curr_mnu = Menu(menubar)
             for item in self.config.menu_topics[topic]:
                 curr_mnu.add_command(label=item, command=self.root.destroy)
-                menubar.add_cascade(label=topic, menu=curr_mnu)
+            
+            menubar.add_cascade(label=topic, menu=curr_mnu)
    
     def loop(self):
          self.root.mainloop()
