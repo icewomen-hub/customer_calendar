@@ -15,7 +15,7 @@ class App:
         
     def run(self):
         self.menu()
-        
+        return self.root
    
     def menu(self):
         menubar = Menu(self.root)
