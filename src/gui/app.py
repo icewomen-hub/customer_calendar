@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import Menu
-from config import GUIConfig
+from gui.config import GUIConfig
 
 class App:
     root = False

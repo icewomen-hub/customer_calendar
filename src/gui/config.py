@@ -2,7 +2,8 @@ class GUIConfig:
     
     app_title = "Kundenkalender"
     menu_topics = None
-
+    font=('Chicago',12, 'normal')
+    btn_font=('Chicago',10, 'bold')
     def __init__(self):
         
         # Menu - Punkte für Admin 

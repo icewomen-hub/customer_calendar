@@ -2,15 +2,13 @@ import tkinter as tk
 from tkinter import Menu
 from config import GUIConfig
 from app import App
+from login import login, l_mask
 
-tk._test()
-root = tk.Tk()
-# Vollbild anzeigen
-root.state('zoomed')
-my_app = App(root)
-
-# hier steht der Applikations-Code Rolle/Ansicht
-# Z.B: 
-
-
-my_app.run().mainloop()
+if __name__ == "__main__":
+    
+    root = tk.Tk()
+    root.state('zoomed')
+    l_mask(root)
+    my_app = App(root)
+    my_app.run().mainloop() 
+    
