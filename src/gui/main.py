@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import Menu
 from config import GUIConfig
 from app import App
-from login import login, l_mask
+
 
 if __name__ == "__main__":
     
