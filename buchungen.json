@@ -1,0 +1,4090 @@
+[
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "28471",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "23412",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "45996",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "17850",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "90934",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "61648",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "53154",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "14055",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "82720",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "45517",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "34144",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "46504",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "91296",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "50120",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "62134",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "20203",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "54204",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "70849",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "60981",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "25478",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "78239",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "30487",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "94833",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "54452",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "58785",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "16029",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "12216",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "65051",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "36841",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "28800",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "24631",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "14532",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "14123",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "70979",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "59938",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "53796",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "88408",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "92653",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "50573",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "85101",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "74759",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "15963",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "83662",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "25612",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "92449",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "71794",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "27687",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "14527",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "74157",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "21267",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "81314",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "35773",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "40100",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "60560",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "88153",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "12610",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "75070",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "16313",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "43324",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "89562",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "78553",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "41559",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "87636",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "75310",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "85275",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "16915",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "13278",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "62077",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "14634",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "66070",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "77679",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "48424",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "66512",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "84762",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "67251",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "25513",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "34422",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "30557",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "87470",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "83338",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "77695",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "89533",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "41015",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "89631",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "83422",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "30629",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "22281",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "19280",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "71097",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "17322",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "74534",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "42576",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "37829",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "57848",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "19514",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "99349",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "36290",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "54627",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "33517",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "95889",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "35856",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "10497",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "74127",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "75600",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "95885",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "87605",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "44171",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "74689",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "58376",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "75338",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "77900",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "84047",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "82721",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "13034",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "62382",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "72866",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "53851",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "95560",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "17996",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "26465",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "32822",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "18928",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "14791",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "58155",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "29098",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "35822",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "46350",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "86934",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "11648",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "28460",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "39397",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "73941",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "87215",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "58864",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "50571",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "79977",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "43840",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "27699",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "76231",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "14908",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "18818",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "42397",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "13861",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "67626",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "21417",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "90179",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "18327",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "44622",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "45970",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "15381",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "66604",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "68918",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "36484",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "95694",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "17706",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "48018",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "24839",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "52271",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "14498",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "33226",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "15764",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "23319",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "31151",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "53958",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "18741",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "29476",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "73602",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "41325",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "80498",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "33380",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "27293",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "47007",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "49316",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "32427",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "19046",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "23874",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "78985",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "69394",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "99865",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "24456",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "24610",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "14379",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "87842",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "47838",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "31655",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "31955",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "21871",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "53277",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "92601",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "44814",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "84065",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "32113",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "27248",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "43411",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "64982",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "85550",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "95915",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "68959",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "62119",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "48428",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "47431",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "76002",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "40764",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "50308",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "98219",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "55348",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "47255",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "84443",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "27537",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "72768",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "52036",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "32260",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "92979",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "15877",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "95452",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "90973",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "92565",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "49899",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "64733",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "21735",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "43030",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "85262",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "54638",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "20899",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "99493",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "41169",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "84929",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "51921",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "89019",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "82584",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "43002",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "13756",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "67917",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "24743",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "24990",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "19673",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "19717",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "55880",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "47594",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "77248",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "16714",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "94198",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "18451",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "72438",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "54965",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "42426",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "30635",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "92388",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "93693",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "85020",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "52089",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "44551",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "18889",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "41670",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "48915",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "67532",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "22631",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "71025",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "75016",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "26424",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "37406",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "53489",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "50939",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "21967",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "85519",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "92435",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "88020",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "71843",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "74463",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "13029",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "60205",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "36552",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "64387",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "73359",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "38613",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "53893",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "14206",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "80662",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "45690",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "44889",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "20612",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "99793",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "64434",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "87470",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "58430",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "94550",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "66448",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "94956",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "14731",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "34677",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "44523",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "62407",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "30843",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "47951",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "25908",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "45400",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "88100",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "61273",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "54503",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "23957",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "86730",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "21283",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "53005",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "96149",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "96812",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "25069",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "64519",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "12858",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "54578",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "99639",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "90195",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "50205",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "48475",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "87484",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "88473",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "43274",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "71172",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "29000",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "81014",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "51129",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "33398",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "83305",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "39136",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "51604",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "78279",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "26116",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "29480",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "51277",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "83584",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "44482",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "24506",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "79940",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "92063",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "79380",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "72929",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "86743",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "35815",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "33267",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "40234",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "81757",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "61169",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "89752",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "14722",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "37876",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "48765",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "60815",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "14475",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "60424",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "17345",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "67274",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "65531",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "20675",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "96302",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "32093",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "17930",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "78513",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "87562",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "71635",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "94093",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "50190",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "63494",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "17586",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "57264",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "91094",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "45371",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "93758",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "67873",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "45074",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "94923",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "84138",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "11913",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "73564",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "86863",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "21603",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "51415",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "64761",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "55502",
+        "kurs": "Pilates",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "46333",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "98839",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "12221",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "71802",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "16846",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "32261",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "55721",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "75263",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "81740",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "46117",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "79211",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-07",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "22953",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "38892",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "38977",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "35740",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "15781",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "82444",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "96178",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "58954",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "21033",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "82563",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "80817",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "43382",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "17576",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "63699",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "97389",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "94929",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "90938",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "83014",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "15538",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "74638",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "54102",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "41041",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "85445",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "65993",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "11319",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-09",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "55679",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "91886",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "50275",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "64244",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "51349",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "31771",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "68015",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "68462",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "21977",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "49312",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "83686",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "76302",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "41681",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "26948",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "69042",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "26466",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "41914",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "27813",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "20601",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "37229",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-05",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "11581",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "19099",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "77240",
+        "kurs": "Pilates",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "79233",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "29933",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "15857",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "97345",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "58922",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "71789",
+        "kurs": "Yoga",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "58181",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "15830",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "88116",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "82294",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "70485",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-11",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "75033",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "19508",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "83698",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "73302",
+        "kurs": "Yoga",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-27",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "62615",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "77347",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "94099",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-21",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "38023",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-25",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "65852",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "30579",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "49366",
+        "kurs": "Zumba",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-31",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "79729",
+        "kurs": "Yoga",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "48573",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "42814",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-12",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "42928",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "61456",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "25046",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-23",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "79467",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "91702",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "28622",
+        "kurs": "Zumba",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-26",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "43652",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "12664",
+        "kurs": "Yoga",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "33985",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "63004",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "63118",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-08",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "64062",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "34345",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-30",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "52345",
+        "kurs": "Spinning",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "75937",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-14",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "25974",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "30719",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "11471",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-22",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "70158",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "60769",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-15",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "30625",
+        "kurs": "Spinning",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "83227",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "37786",
+        "kurs": "Pilates",
+        "trainer": "Lisa",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "68607",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-10",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "12846",
+        "kurs": "Spinning",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-03",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "60518",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-13",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "21509",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "11465",
+        "kurs": "Spinning",
+        "trainer": "Christine",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-29",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "88883",
+        "kurs": "Zumba",
+        "trainer": "Alexej",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-04",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "89242",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "86773",
+        "kurs": "Pilates",
+        "trainer": "Mohamed",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-04-06",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "53644",
+        "kurs": "Zumba",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "14:00",
+        "mitgliedsnummer": "63533",
+        "kurs": "Pilates",
+        "trainer": "Sven",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-04-01",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "25430",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "storniert"
+    },
+    {
+        "datum": "2025-04-02",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "63001",
+        "kurs": "Spinning",
+        "trainer": "Mohamed",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-24",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "74618",
+        "kurs": "Spinning",
+        "trainer": "Alexej",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-16",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "10397",
+        "kurs": "Zumba",
+        "trainer": "Sven",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-28",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "81127",
+        "kurs": "Yoga",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "18:00",
+        "mitgliedsnummer": "46386",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "688",
+        "trainer": "Trainer B",
+        "kurs": "Yoga",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "700",
+        "trainer": "Trainer A",
+        "kurs": "Zumba",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "16:00",
+        "mitgliedsnummer": "200",
+        "kurs": "Yoga",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-17",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "110",
+        "kurs": "Zumba",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "12:00",
+        "mitgliedsnummer": "509",
+        "kurs": "Spinning",
+        "trainer": "Tom",
+        "status": "best\u00e4tigt"
+    },
+    {
+        "datum": "2025-03-20",
+        "uhrzeit": "20:00",
+        "mitgliedsnummer": "199",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "600",
+        "kurs": "Pilates",
+        "trainer": "Tom",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "222",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-18",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "111",
+        "kurs": "Pilates",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "08:00",
+        "mitgliedsnummer": "112",
+        "kurs": "Yoga",
+        "trainer": "Lisa",
+        "status": "Warteliste"
+    },
+    {
+        "datum": "2025-03-19",
+        "uhrzeit": "10:00",
+        "mitgliedsnummer": "113",
+        "kurs": "Zumba",
+        "trainer": "Pouria",
+        "status": "Warteliste"
+    }
+]
