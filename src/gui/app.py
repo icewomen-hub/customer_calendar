@@ -41,22 +41,24 @@ class App:
         self.menu()
    
    
-    def admin(self):
+    def admin(self): # Sven
         frame = self.workbench()
-        
+        entry = tk.Label(self.root, text='Dies ist ein label')
+        entry.grid(row=1, column=1)
     
-    def guest(self):
+    def guest(self): # Pouria
         frame = self.workbench()
 
     
-    def staff(self):
+    def staff(self): # Aleksej
         frame = self.workbench()
 
-    def member(self):
+    def member(self):  # Christine        
         frame = self.workbench()
     
-   
-    def menu(self):
+    
+    def menu(self): 
+
         menubar = Menu(self.root)
         self.root.config(menu=menubar)
         
