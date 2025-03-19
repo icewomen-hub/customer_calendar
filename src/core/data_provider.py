@@ -3,20 +3,32 @@ import pandas as pd
 
 class DataProvider:
 
-    course_plan = None
-    time_slot_file = '../data/time_slot.csv'
+    # Datenquellen:
+    ## Bewegungsdaten
     course_plan_file = '../data/course_plan.xlsx'
+    
+    ## Stammdaten
+    time_slot_file = '../data/time_slot.csv'
     trainer_file = '../data/trainer.csv'
     course_file = '../data/kurs.csv'
     auth_file = '../data/passwd.csv'
-    # course_file = '../data/Kursplan.xlsx'
-
+    
     weekdays = ['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag']
+    
+    course_plan = None
     trainers = False
     courses = False
     time_slots = False
+    
+    current_topic = False
 
-    def __init__(self):
+    valid_topics = ['courses', 'trainers','time_slots', 'roles']
+    
+    def __init__(self, topic=False):
+        
+        if topic != False:
+            self.current_topic = topic
+            
         # self.course_plan = pd.read_excel(self.course_file)
         self.courses = pd.read_csv(self.course_file)
         self.trainers = pd.read_csv(self.trainer_file)
@@ -41,9 +53,31 @@ class DataProvider:
     def time_slots_per_course(self, course):
         return self.time_slots[self.time_slots['kurs'] == course]
 
-    def save(self, topic='course'):
-        if topic == 'course':
+    def save(self, topic='courses'):
+        if topic == 'courses':
             self.course.to_excel(self.course_file)
+        else:
+            self.save_json(topic)
+        # Save mee!
+
+    def save_json(topic):
+        pass
+
+    def get_data(self, topic):
+        self.topic = topic
+        if topic == 'courses':
+            return self.courses
+        elif topic == 'trainers':
+            return self.trainers
+        elif topic == 'time_slots':
+            return self.time_slots
+        elif topic == 'roles':
+            return self.roles
+        
+        
+        
+        
+        return self.data
 
     def stop(self, msg):
         print('Fehler: ' + msg)
