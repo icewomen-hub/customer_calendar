@@ -26,6 +26,7 @@ class Login:
             children = [self.name_lbl, self.name_entry, self.passw_lbl, self.passw_entry, self.sub_btn]
             for child in children:
                 child.destroy()
+        
         lbl.grid(row=3, column=1)
         
         self.app.dispatch_role(name)
