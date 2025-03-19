@@ -5,6 +5,15 @@ class GUIConfig:
     font=('Chicago',12, 'normal')
     btn_font=('Chicago',10, 'bold')
     
+    design_by_role = {
+        'guest': ['blue', 'white'], 
+        'admin': ['orange', 'black'], 
+        'member': ['lightgray', 'black'], 
+        'staff': ['green', 'black']
+        
+    }
+    
+    
     def __init__(self):
         
         # Menu - Punkte für Admin 

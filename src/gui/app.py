@@ -22,28 +22,38 @@ class App:
         return self.root
     
     def dispatch_role(self, role_name='guest'):
-        #print(role_name)
-        if role_name.lower() == '':
+        self.role = role_name.lower()
+        
+        if role_name == 'admin':
             self.admin() 
+            
+        elif role_name  == 'guest':
+            self.guest() 
+            
+        elif role_name == 'staff':
+            self.staff() 
+        
+        elif role_name  == 'member':
+            self.member() 
+        
+        
+        
         self.menu()
    
    
     def admin(self):
-        print('admin')
-        pass
+        frame = self.workbench()
+        
     
     def guest(self):
-        print('guest')
-        pass
+        frame = self.workbench()
+
     
     def staff(self):
-        print('Mitarbeiter')
-        pass
-    
+        frame = self.workbench()
+
     def member(self):
-        print('Mitglied')
-        pass
-    
+        frame = self.workbench()
     
    
     def menu(self):
@@ -62,7 +72,18 @@ class App:
         dir_path = os.path.dirname(os.path.realpath(__file__))
         print(dir_path)
                 
-   
+    def workbench(self):
+        """ “Arbeitstisch„  je Rolle """
+        
+        design = self.config.design_by_role[self.role]
+        
+        # nur zum Entwickeln
+        frame = tk.Frame(self.root, bg=design[0])
+        frame.place(relwidth=1, relheight=1)
+        print(self.role.capitalize())
+        lbl = tk.Label(frame, text=self.role)
+        lbl.grid(row=0, column=0)
+        return frame
    
         
         
