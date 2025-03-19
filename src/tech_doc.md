@@ -102,3 +102,6 @@ classDiagram
     App  --|> DataProvider
 
 ```
+
+## Screenshots
+![alt text](admin_customer_small.png "Admin Fenster - Kundentabelle")
