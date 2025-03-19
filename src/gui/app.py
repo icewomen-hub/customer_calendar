@@ -58,35 +58,35 @@ class App:
         frame = self.workbench()
 
         calendar = Calendar(frame, selectmode="day", date_pattern="yyyy-mm-dd")  # erzeugt die Anzeige des Kalenders im Fenster
-        calendar.pack(pady=20)      # platziert den Kalender im Fenster
+        calendar.grid(pady=20)      # platziert den Kalender im Fenster
 
         # Auswahl der Uhrzeit (Dropdown-Menü)
         zeiten = ["8:00", "10:00"]                       # Pfadangabe zu time_slot.csv von Sven eingeben
         uhrzeit_label=tk.Label(frame, text="Bitte Uhrzeit auswählen:")
-        uhrzeit_label.pack()
+        uhrzeit_label.grid(row=3, column=3)
         uhrzeit_dropdown=ttk.Combobox(frame, value=zeiten)
-        uhrzeit_dropdown.pack()
+        uhrzeit_dropdown.grid(row=4, column=4)
 
         # Auswahl der Buchung (zugriff auf externe Liste)
         auswahl=["kurs", "Einzeltermin"]                  # Pfadangabe zur kurs.csv von Sven eingeben
         kursauswahl_label = tk.Label(frame, text="Kurs auswählen:")
-        kursauswahl_label.pack()
+        kursauswahl_label.grid(row=6, column=6)
         kursauswahl_dropdown = ttk.Combobox(frame, value=auswahl)
-        kursauswahl_dropdown.pack()
+        kursauswahl_dropdown.grid(row=7, column=7)
 
         # Trainerauswahl
         trainer = ["Pouria", "Tim", "Laura"]
         trainer_label = tk.Label(frame, text="Bitte den Trainer auswählen:")
-        trainer_label.pack()
+        trainer_label.grid(row=9, column=9)
         trainer_dropdown = ttk.Combobox(frame, value=trainer)
-        trainer_dropdown.pack()
+        trainer_dropdown.grid(row=10, column=10)
 
         # Auswahl vom Wochentag
         tag = ["Montag", "Dienstag"]
         tag_label = tk.Label(frame, text="Bitte wählen Sie den Wochentag:")
-        tag_label.pack()
+        tag_label.grid()
         tag_dropdown = ttk.Combobox(frame, value=tag)
-        tag_dropdown.pack()
+        tag_dropdown.grid()
 
         # Buchung tätigen
         buchungen = []
@@ -99,7 +99,7 @@ class App:
                 buchungen_label.config(text=f"Buchungen: {', '.join(buchungen)}")
 
         bestaetigungs_button = tk.Button(frame, text="Buchung bestätigen", command=buchung_hinzufuegen)
-        bestaetigungs_button.pack()
+        bestaetigungs_button.grid()
 
 
     def menu(self): 
