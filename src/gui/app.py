@@ -1,8 +1,8 @@
 import tkinter as tk
-from tkinter import Menu
+from tkinter import Menu, ttk
 from gui.config import GUIConfig
 from core.state import State
-
+from tkcalendar import Calendar
 class App:
     root = False
     config = False
@@ -55,7 +55,50 @@ class App:
 
     def member(self):  # Christine        
         frame = self.workbench()
-    
+        
+        calendar = Calendar(frame, selectmode="day", date_pattern="yyyy-mm-dd")  # erzeugt die Anzeige des Kalenders im Fenster
+        calendar.grid(pady=20)      # platziert den Kalender im Fenster
+
+        # Auswahl der Uhrzeit (Dropdown-Menü)
+        zeiten = ["8:00", "10:00"]                       # Pfadangabe zu time_slot.csv von Sven eingeben
+        uhrzeit_label=tk.Label(frame, text="Bitte Uhrzeit auswählen:")
+        uhrzeit_label.grid(row=3, column=3)
+        uhrzeit_dropdown=ttk.Combobox(frame, value=zeiten)
+        uhrzeit_dropdown.grid(row=4, column=4)
+
+        # Auswahl der Buchung (zugriff auf externe Liste)
+        auswahl=["kurs", "Einzeltermin"]                  # Pfadangabe zur kurs.csv von Sven eingeben
+        kursauswahl_label = tk.Label(frame, text="Kurs auswählen:")
+        kursauswahl_label.grid(row=6, column=6)
+        kursauswahl_dropdown = ttk.Combobox(frame, value=auswahl)
+        kursauswahl_dropdown.grid(row=7, column=7)
+
+        # Trainerauswahl
+        trainer = ["Pouria", "Tim", "Laura"]
+        trainer_label = tk.Label(frame, text="Bitte den Trainer auswählen:")
+        trainer_label.grid(row=9, column=9)
+        trainer_dropdown = ttk.Combobox(frame, value=trainer)
+        trainer_dropdown.grid(row=10, column=10)
+
+        # Auswahl vom Wochentag
+        tag = ["Montag", "Dienstag"]
+        tag_label = tk.Label(frame, text="Bitte wählen Sie den Wochentag:")
+        tag_label.grid()
+        tag_dropdown = ttk.Combobox(frame, value=tag)
+        tag_dropdown.grid()
+
+        # Buchung tätigen
+        buchungen = []
+
+        # def buchung_hinzufuegen():
+        #     buchungen.append("Buchung bestätigt")
+        #     with open(dateipfad, "w") as file:
+        #         json.dump(buchungen, file)
+                
+        #         buchungen_label.config(text=f"Buchungen: {', '.join(buchungen)}")
+
+        bestaetigungs_button = tk.Button(frame, text="Buchung bestätigen", command=buchung_hinzufuegen)
+        bestaetigungs_button.grid()
     
     def menu(self): 
 
