@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import Menu
 from gui.config import GUIConfig
-from core.state import State
 from tkcalendar import Calendar
 from pandastable import Table
 from core.customers import Customers
@@ -59,7 +58,7 @@ class App:
         my_cal = Calendar(frame,  selectmode="day")
         my_cal.grid(row=2, column=3)
 
-
+# git checkout branch pouria7676
 
     def staff(self):
         frame = self.workbench()
