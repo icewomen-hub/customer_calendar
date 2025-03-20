@@ -32,6 +32,8 @@ class CustomerCalendar:
             "comment": comment,
             "add_info": add_info,
         }
+        print(self.data)
+
 
     def edit(self, line):
         work_line = self.data[self.data["id"] == line["id"]]

@@ -9,7 +9,7 @@ class MenuHelper:
         if role_name == 'admin':
             return self.adm_mnu(content)
         elif role_name == 'guest':
-            return self.gst_mnu
+            return self.adm_mnu
         
     def adm_mnu(self, content):
         menubar = Menu(self.context)

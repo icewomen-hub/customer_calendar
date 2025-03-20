@@ -12,7 +12,7 @@ class DataProvider:
     trainer_file = '../data/trainer.csv'
     course_file = '../data/kurs.csv'
     auth_file = '../data/passwd.csv'
-    weekday_file = '../data/wochentag.csv'
+ 
     
     weekdays = ['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag']
     
@@ -23,7 +23,7 @@ class DataProvider:
     
     current_topic = False
 
-    valid_topics = ['courses', 'trainers','time_slots', 'roles', 'weekdays']
+    valid_topics = ['courses', 'trainers','time_slots', 'roles']
     
     def __init__(self, topic=False):
         
@@ -35,7 +35,6 @@ class DataProvider:
         self.trainers = pd.read_csv(self.trainer_file)
         self.time_slots = pd.read_csv(self.time_slot_file)
         self.roles = pd.read_csv(self.auth_file)
-        self.weekdays = pd.read_csv(self.weekday_file)
 
     def course_list(self):
         return self.courses
@@ -62,12 +61,15 @@ class DataProvider:
             self.save_json(topic)
         # Save mee!
 
-
+    def save_json(topic):
+        pass
 
     def get_data(self, topic):
         self.topic = topic
         if topic == 'courses':
-            return self.courses
+            # hack 2025-03-20
+            return ['Beratung Einzeltraining', 'Beratung Fitness Check', 'BeratungEinzeltraining', 'Crossfit', 'Ernährungsberatung', 'Functional', 'Kraftraining', 'Pilates', 'Vertragsgespräch', 'Yoga', 'Zumba']
+            #return self.courses
         elif topic == 'trainers':
             return self.trainers
         elif topic == 'time_slots':
@@ -75,7 +77,8 @@ class DataProvider:
         elif topic == 'roles':
             return self.roles
         elif topic == 'weekdays':
-            return self.weekdays        
+            return self.weekdays
+        
         
         
         
@@ -84,3 +87,4 @@ class DataProvider:
     def stop(self, msg):
         print('Fehler: ' + msg)
         exit()
+
