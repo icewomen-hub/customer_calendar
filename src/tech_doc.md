@@ -1,4 +1,4 @@
-## Anwendung Sequenzdiagramm Anmeldung
+## Anwendung Sequenzdiagramm Anmeldung bis rollenbasierter GUI
 ```mermaid
 sequenceDiagram
     User->>App: Start # Start der Applikation
@@ -25,7 +25,7 @@ sequenceDiagram
 ```
 
 
-## Beispiel Buchung
+## "Mini-ER" - Beispiel Buchung
 
 ```mermaid
 erDiagram
@@ -111,18 +111,27 @@ classDiagram
     + read_data(sel, topic)
    }
 
+   class MenuHelper{
+    + __init__(self)
+    + get_menu_by_role(self, role_name)
+}
+
+    class Gui{
+    
+    }
+
     Main --|> App
     Main  --|> Login
 
     App  --|> CustomerCalendar
     App  --|> Customers
     App  --|> DataProvider
+    App --|> Gui
 
     App  --|> pandas
     App  --|> Tk
-    App  --|> pandastable.Table
-
-    App --|> TableHelper
+    Gui --|> MenuHelper
+    Gui --|> TableHelper
     TableHelper --|> pandastable.Table
 
 
