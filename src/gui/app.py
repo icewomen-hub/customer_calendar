@@ -5,6 +5,7 @@ from tkcalendar import Calendar
 from pandastable import Table
 from core.customers import Customers
 from core.table_helper import TableHelper
+from tkinter import messagebox, ttk
 
 class App:
     root = False
@@ -65,18 +66,16 @@ class App:
 
     def member(self): # Christine
         frame = self.workbench()
-        my_cal = Calendar(frame,  selectmode="day")
-        my_cal.grid(row=2, column=3)
+        my_cal = Calendar(frame,  selectmode="day", font=("Arial", 20))
+        my_cal.grid(row=0, column=0, padx=80, pady=40, sticky="n")
 
 # Eingabe Mitgliedsnummer (Eingabefeld)                 # Pfadangabe zu Mitglieds ID von Sven eingeben
         mitglnr_label = tk.Label(frame, text="Mitgliedsnummer eingeben:") 
-        mitglnr_label.grid()
+        mitglnr_label.grid (row=0, column=5, padx=10, pady=10, sticky="n")    #(row=0, column=1, padx=10, pady=10, sticky="n")
         mitglnr_eingabe = tk.Entry(frame)
-        mitglnr_eingabe.grid()
-        mitglnr_button = tk.Button(frame, text="Anzeigen", command=anzeigen)
-        mitglnr_button.grid()
+        mitglnr_eingabe.grid(row=1, column=5, padx=10, pady=10, sticky="n")
 
-# Auswahl der Uhrzeit (Dropdown-Menü)
+        # Auswahl der Uhrzeit (Dropdown-Menü)
         zeiten = ["8:00", "10:00"]                       # Pfadangabe zu time_slot.csv von Sven eingeben
         uhrzeit_label=tk.Label(frame, text="Bitte Uhrzeit auswählen:")
         uhrzeit_label.grid(ipadx=7, ipady=12)
