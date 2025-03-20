@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import Menu
+from tkinter import Menu, ttk
 from gui.config import GUIConfig
 from tkcalendar import Calendar
 from pandastable import Table
@@ -7,6 +7,7 @@ from core.customers import Customers
 from core.table_helper import TableHelper
 from gui.menu_helper import MenuHelper
 import pandas as pd
+from core.data_provider import DataProvider
 
 class App:
     root = False
@@ -91,9 +92,62 @@ class App:
 
     def staff(self):
         frame = self.workbench()
+        dp = DataProvider()
+        data = dp.get_data('trainers')
+        print(data)
+
+
+        exit()
 
     def member(self):
         frame = self.workbench()
+        my_cal = Calendar(frame,  selectmode="day", font=("Arial", 20))
+        my_cal.grid(row=0, column=0)
+
+# Eingabe Mitgliedsnummer (Eingabefeld)                 # Pfadangabe zu Mitglieds ID von Sven eingeben
+        mitglnr_label = tk.Label(frame, text="Mitgliedsnummer eingeben:") 
+         #(row=0, column=1, padx=10, pady=10, sticky="n")
+        mitglnr_eingabe = tk.Entry(frame)
+        mitglnr_eingabe.grid(row=0, column=4, padx=10, pady=10, sticky="n", rowspan=12)
+        #mitglnr_label.grid (row=0, column=4, padx=10, pady=10, sticky="n")  
+        # Auswahl der Uhrzeit (Dropdown-Menü)
+        zeiten = ["8:00", "10:00"]                       # Pfadangabe zu time_slot.csv von Sven eingeben
+        uhrzeit_label=tk.Label(frame, text="Bitte Uhrzeit auswählen:")
+        uhrzeit_label.grid(ipadx=7, ipady=12)
+        uhrzeit_dropdown=ttk.Combobox(frame, value=zeiten)
+        uhrzeit_dropdown.grid(ipadx=7, ipady=12)
+
+        # Auswahl vom Wochentag (Dropdown-Menü)
+        tag = ["Montag", "Dienstag"]
+        tag_label = tk.Label(frame, text="Bitte wählen Sie den Wochentag:")
+        tag_label.grid(ipadx=7, ipady=12)
+        tag_dropdown = ttk.Combobox(frame, value=tag)
+        tag_dropdown.grid(ipadx=7, ipady=12)
+
+        # Auswahl der Buchung (Dropdown-Menü) (zugriff auf externe Liste)
+        auswahl=["kurs", "Einzeltermin"]                  # Pfadangabe zur kurs.csv von Sven eingeben
+        kursauswahl_label = tk.Label(frame, text="Bitte Kurs auswählen:")
+        kursauswahl_label.grid(row=2, column= 4, ipadx=7, ipady=12)
+        kursauswahl_dropdown = ttk.Combobox(frame, value=auswahl)
+        kursauswahl_dropdown.grid(row=3, column= 4, ipadx=7, ipady=12)
+
+        # Trainerauswahl (Dropdown-Menü)
+        trainer = ["Pouria", "Tim", "Laura"]
+        trainer_label = tk.Label(frame, text="Bitte den Trainer auswählen:")
+        trainer_label.grid(row=4, column= 4, ipadx=7, ipady=12)
+        trainer_dropdown = ttk.Combobox(frame, value=trainer)
+        trainer_dropdown.grid(row=5, column= 4, ipadx=7, ipady=12)
+
+        # Buchung tätigen (Bestätigungsbutton)
+        bestaetigung_button = tk.Button(frame, text="Buchung bestätigen", command=lambda: messagebox.showinfo("Bestätigung", "Buchung wurde bestätigt!"))
+        bestaetigung_button.grid(row=7, column= 3, ipadx=7, ipady=12)
+
+
+        # Buchung tätigen
+        #buchungen = []
+
+
+
 
     def menu(self):
         content = {
