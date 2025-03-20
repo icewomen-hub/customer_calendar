@@ -121,7 +121,62 @@ class App:
         #exit()
         
     def member(self):
-        self.guest()
+        frame = self.workbench()
+        my_cal = Calendar(frame,  selectmode="day")
+        my_cal.grid(row=2, column=3)
+
+        course_var = tk.StringVar()
+        time_var = tk.StringVar()
+        trainer_var = tk.StringVar()
+        member_id = tk.StringVar()
+        
+        dp = DataProvider()
+        courses = dp.get_data('courses')
+        timeslots = dp.get_data('time_slots')
+        trainers = list(dp.get_data('trainers')['trainer'])
+        times = list(timeslots['von'].unique())
+        
+        
+        #print(trainers, courses)
+        # exit()
+        
+        tk.Label(frame, text="Mitglieds-Nr:").grid(row=5, column=5)
+        tk.Entry(frame, textvariable=member_id).grid(row=5, column=6)
+        
+        tk.Label(frame, text="Wähle einen Kurs:").grid(row=3, column=2)
+        tk.OptionMenu(frame, course_var, *courses).grid(row=3, column=3)
+        tk.Label(frame, text="Wähle eine Uhrzeit:").grid(row=4, column=2)
+        tk.Label(frame, text="Wähle einen Trainer:").grid(row=5, column=2)
+
+
+        
+        
+        #print(times)
+        #exit()
+
+        
+       
+
+        course_var.set(courses[0])
+        time_var.set(times[0])
+        trainer_var.set(trainers[0])
+
+        
+        tk.OptionMenu(frame, time_var, *times).grid(row=4, column=3)
+        tk.OptionMenu(frame, trainer_var, *trainers).grid(row=5, column=3)
+
+        def book_appointment():
+            date = my_cal.get_date()
+            course = course_var.get()
+            time = time_var.get()
+            trainer_name = trainer_var.get()
+            member = member_id.get()
+            tk.messagebox.showinfo("Buchung", f"Termin von Mitglied {member} für {course} am {date} um {time} mit {trainer_name} wurde gebucht!")
+            self.customer_calendar.book(c_start=str(date)+' '+time, appt_id=course,member_id=666,c_end=date + '+90', comment=trainer_name)
+            self.customer_calendar.save()
+
+        tk.Button(frame, text="Termin buchen", command=book_appointment).grid(row=6, column=3, pady=10)
+
 
     def member_old(self):
         frame = self.workbench()
