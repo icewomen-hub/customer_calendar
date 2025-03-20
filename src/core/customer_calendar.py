@@ -39,5 +39,8 @@ class CustomerCalendar:
             work_line[i] = line[i]
             
         self.data[self.data["id"] == line["id"]] = work_line
+        
+    def get_data(self, topic):
+        return self.data
 
 
