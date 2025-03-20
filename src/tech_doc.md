@@ -105,6 +105,12 @@ classDiagram
         ...
    }
 
+   class TableHelper{
+    + __init__(self)
+    + get_table(self, context, topic = 'customers')
+    + read_data(sel, topic)
+   }
+
     Main --|> App
     Main  --|> Login
 
@@ -115,6 +121,9 @@ classDiagram
     App  --|> pandas
     App  --|> Tk
     App  --|> pandastable.Table
+
+    App --|> TableHelper
+    TableHelper --|> pandastable.Table
 
 
 ```
