@@ -1,16 +1,16 @@
 ## Anwendung Sequenzdiagramm Anmeldung
 ```mermaid
 sequenceDiagram
-    Rolle->>App: Start # Start der Applikation
-    App->>Rolle: Bitte Login
-    Rolle->>App: login(username, password)
+    User->>App: Start # Start der Applikation
+    App->>User: Bitte Login
+    User->>App: login(username, password)
     create participant Auth
     App->>Auth: (username, password)
     Auth->>App: ok
-    App->>Role_Window: Rollenbasierte GUI-Ansicht
+    Role_Window->>User: Rollenbasierte GUI-Ansicht
     destroy Auth
     App-xAuth: end()
-    App->>Rolle: Rollenbasierte GUI-Ansicht
+    
     create actor G as Gast
     Role_Window->>G: Zugriff als Gast
     create actor A as Admin
