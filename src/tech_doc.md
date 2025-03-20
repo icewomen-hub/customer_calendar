@@ -1,16 +1,23 @@
 ## Anwendung Sequenzdiagramm Anmeldung bis rollenbasierter GUI
 ```mermaid
 sequenceDiagram
+    autonumber
+    create actor User
+    Python->>User: src/main.py
+    Note over User, Role_Window: Der Benutzer muss sich zunächst authentifizieren
     User->>App: Start # Start der Applikation
     App->>User: Bitte Login
-    User->>App: login(username, password)
-    create participant Auth
-    App->>Auth: (username, password)
-    Auth->>App: ok
-    Role_Window->>User: Rollenbasierte GUI-Ansicht
-    destroy Auth
-    App-xAuth: end()
     
+    loop Login
+        User->>Auth: check(username, password)
+        Auth->>App: ok
+        
+        destroy Auth
+        App-xAuth: end()
+    
+    end
+   
+    Role_Window->>User: Rollenbasierte GUI-Ansicht
     create actor G as Gast
     Role_Window->>G: Zugriff als Gast
     create actor A as Admin
@@ -19,11 +26,33 @@ sequenceDiagram
     Role_Window->>S: Zugriff als Mitarbeiter
     create actor M as Mitglied
     Role_Window->>M: Zugriff als Mitglied
-
+    participant db as Persistenzschicht
+    App->>db: (anlegen, auflisten, speichern, ändern)
     
     
 ```
+## Persistenzschicht
 
+
+```mermaid
+architecture-beta
+    service left_disk(disk)[JSON]
+    service top_disk(disk)[CSV]
+    service bottom_disk(disk)[XLSX]
+    service top_gateway(server)[GUI]
+    service bottom_gateway(server)[APP]
+    junction junctionCenter
+    junction junctionRight
+
+    left_disk:R -- L:junctionCenter
+    top_disk:B -- T:junctionCenter
+    bottom_disk:T -- B:junctionCenter
+    junctionCenter:R -- L:junctionRight
+    top_gateway:B -- T:junctionRight
+    bottom_gateway:T -- B:junctionRight
+
+
+```
 
 ## "Mini-ER" - Beispiel Buchung
 
