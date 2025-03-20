@@ -21,7 +21,7 @@ sequenceDiagram
     Role_Window->>M: Zugriff als Mitglied
 
     
-    Role_Window-->G: Rollenbasierte GUI-Ansicht
+    
 ```
 
 
