@@ -1,61 +1,11 @@
 ,wochentag,von,bis,kurs
-0,Montag,08:00:00,09:30:00,Yoga
-1,Montag,09:30:00,10:00:00,Ernährungsberatung
-2,Montag,10:00:00,11:30:00,Pilates
-3,Montag,11:30:00,12:00:00,Vertragsgespräch
-4,Montag,14:00:00,15:30:00,Zumba
-5,Montag,15:30:00,16:00:00,Beratung Fitness Check
-6,Montag,16:00:00,17:30:00,Functional
-7,Montag,17:30:00,18:00:00,Beratung Einzeltraining
-8,Montag,19:30:00,21:00:00,Crossfit
-9,Montag,21:00:00,22:30:00,Kraftraining
-10,Dienstag,08:00:00,09:30:00,Kraftraining
-11,Dienstag,09:30:00,10:00:00,Crossfit
-12,Dienstag,10:00:00,11:30:00,Beratung Einzeltraining
-13,Dienstag,11:30:00,12:00:00,Functional
-14,Dienstag,14:00:00,15:30:00,Beratung Fitness Check
-15,Dienstag,15:30:00,16:00:00,Zumba
-16,Dienstag,16:00:00,17:30:00,Vertragsgespräch
-17,Dienstag,17:30:00,18:00:00,Pilates
-18,Dienstag,19:30:00,21:00:00,Ernährungsberatung
-19,Dienstag,21:00:00,22:30:00,Yoga
-20,Mittwoch,08:00:00,09:30:00,Beratung Einzeltraining
-21,Mittwoch,09:30:00,10:00:00,Beratung Fitness Check
-22,Mittwoch,10:00:00,11:30:00,Vertragsgespräch
-23,Mittwoch,11:30:00,12:00:00,Ernährungsberatung
-24,Mittwoch,14:00:00,15:30:00,Yoga
-25,Mittwoch,15:30:00,16:00:00,Pilates
-26,Mittwoch,16:00:00,17:30:00,Zumba
-27,Mittwoch,17:30:00,18:00:00,Functional
-28,Mittwoch,19:30:00,21:00:00,Kraftraining
-29,Mittwoch,21:00:00,22:30:00,Crossfit
-30,Donnerstag,08:00:00,09:30:00,Kraftraining
-31,Donnerstag,09:30:00,10:00:00,Functional
-32,Donnerstag,10:00:00,11:30:00,Zumba
-33,Donnerstag,11:30:00,12:00:00,Ernährungsberatung
-34,Donnerstag,14:00:00,15:30:00,Pilates
-35,Donnerstag,15:30:00,16:00:00,Crossfit
-36,Donnerstag,16:00:00,17:30:00,Vertragsgespräch
-37,Donnerstag,17:30:00,18:00:00,BeratungEinzeltraining
-38,Donnerstag,19:30:00,21:00:00,Yoga
-39,Donnerstag,21:00:00,22:30:00,Beratung Fitness Check
-40,Freitag,08:00:00,09:30:00,Functional
-41,Freitag,09:30:00,10:00:00,Kraftraining
-42,Freitag,10:00:00,11:30:00,Beratung Fitness Check
-43,Freitag,11:30:00,12:00:00,Vertragsgespräch
-44,Freitag,14:00:00,15:30:00,Zumba
-45,Freitag,15:30:00,16:00:00,Crossfit
-46,Freitag,16:00:00,17:30:00,Pilates
-47,Freitag,17:30:00,18:00:00,Ernährungsberatung
-48,Freitag,19:30:00,21:00:00,BeratungEinzeltraining
-49,Freitag,21:00:00,22:30:00,Yoga
-50,Samstag,08:00:00,09:30:00,Yoga
-51,Samstag,09:30:00,10:00:00,Ernährungsberatung
-52,Samstag,10:00:00,11:30:00,Pilates
-53,Samstag,11:30:00,12:00:00,Vertragsgespräch
-54,Samstag,14:00:00,15:30:00,Zumba
-55,Samstag,15:30:00,16:00:00,Beratung Fitness Check
-56,Samstag,16:00:00,17:30:00,Functional
-57,Samstag,17:30:00,18:00:00,Beratung Einzeltraining
-58,Samstag,19:30:00,21:00:00,Crossfit
-59,Samstag,21:00:00,22:30:00,Kraftraining
+0,Montag,08::00,09:30,Yoga
+1,Montag,09:30,10,Ernährungsberatung
+2,Montag,10:00,11:30,Pilates
+3,Montag,11:30,12,Vertragsgespräch
+4,Montag,14:00,15:30,Zumba
+5,Montag,15:30,16,Beratung Fitness Check
+6,Montag,16:00,17:30,Functional
+7,Montag,17:30,18,Beratung Einzeltraining
+8,Montag,19:30,21,Crossfit
+9,Montag,21:00,22:30,Kraftraining
