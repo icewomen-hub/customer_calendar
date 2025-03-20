@@ -7,10 +7,21 @@ sequenceDiagram
     create participant Auth
     App->>Auth: (username, password)
     Auth->>App: ok
+    App->>Role_Window: Rollenbasierte GUI-Ansicht
     destroy Auth
     App-xAuth: end()
     App->>Rolle: Rollenbasierte GUI-Ansicht
+    create actor G as Gast
+    Role_Window->>G: Zugriff als Gast
+    create actor A as Admin
+    Role_Window->>A: Zugriff als Admin
+    create actor S as Mitarbeiter
+    Role_Window->>S: Zugriff als Mitarbeiter
+    create actor M as Mitglied
+    Role_Window->>M: Zugriff als Mitglied
+
     
+    Role_Window-->G: Rollenbasierte GUI-Ansicht
 ```
 
 
@@ -100,6 +111,11 @@ classDiagram
     App  --|> CustomerCalendar
     App  --|> Customers
     App  --|> DataProvider
+
+    App  --|> pandas
+    App  --|> Tk
+    App  --|> pandastable.Table
+
 
 ```
 
