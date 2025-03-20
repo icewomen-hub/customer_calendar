@@ -71,41 +71,41 @@ class App:
 
 # Eingabe Mitgliedsnummer (Eingabefeld)                 # Pfadangabe zu Mitglieds ID von Sven eingeben
         mitglnr_label = tk.Label(frame, text="Mitgliedsnummer eingeben:") 
-        mitglnr_label.grid (row=0, column=5, padx=10, pady=10, sticky="n")    #(row=0, column=1, padx=10, pady=10, sticky="n")
+        mitglnr_label.grid ()
         mitglnr_eingabe = tk.Entry(frame)
-        mitglnr_eingabe.grid(row=1, column=5, padx=10, pady=10, sticky="n")
+        mitglnr_eingabe.grid()
 
         # Auswahl der Uhrzeit (Dropdown-Menü)
         zeiten = ["8:00", "10:00"]                       # Pfadangabe zu time_slot.csv von Sven eingeben
         uhrzeit_label=tk.Label(frame, text="Bitte Uhrzeit auswählen:")
-        uhrzeit_label.grid(ipadx=7, ipady=12)
+        uhrzeit_label.grid()
         uhrzeit_dropdown=ttk.Combobox(frame, value=zeiten)
-        uhrzeit_dropdown.grid(ipadx=7, ipady=12)
+        uhrzeit_dropdown.grid()
 
         # Auswahl vom Wochentag (Dropdown-Menü)
         tag = ["Montag", "Dienstag"]
         tag_label = tk.Label(frame, text="Bitte wählen Sie den Wochentag:")
-        tag_label.grid(ipadx=7, ipady=12)
+        tag_label.grid()
         tag_dropdown = ttk.Combobox(frame, value=tag)
-        tag_dropdown.grid(ipadx=7, ipady=12)
+        tag_dropdown.grid()
 
         # Auswahl der Buchung (Dropdown-Menü) (zugriff auf externe Liste)
         auswahl=["kurs", "Einzeltermin"]                  # Pfadangabe zur kurs.csv von Sven eingeben
         kursauswahl_label = tk.Label(frame, text="Bitte Kurs auswählen:")
-        kursauswahl_label.grid(row=2, column= 4, ipadx=7, ipady=12)
+        kursauswahl_label.grid()
         kursauswahl_dropdown = ttk.Combobox(frame, value=auswahl)
-        kursauswahl_dropdown.grid(row=3, column= 4, ipadx=7, ipady=12)
+        kursauswahl_dropdown.grid()
 
         # Trainerauswahl (Dropdown-Menü)
         trainer = ["Pouria", "Tim", "Laura"]
         trainer_label = tk.Label(frame, text="Bitte den Trainer auswählen:")
-        trainer_label.grid(row=4, column= 4, ipadx=7, ipady=12)
+        trainer_label.grid()
         trainer_dropdown = ttk.Combobox(frame, value=trainer)
-        trainer_dropdown.grid(row=5, column= 4, ipadx=7, ipady=12)
+        trainer_dropdown.grid()
 
         # Buchung tätigen (Bestätigungsbutton)
         bestaetigung_button = tk.Button(frame, text="Buchung bestätigen", command=lambda: messagebox.showinfo("Bestätigung", "Buchung wurde bestätigt!"))
-        bestaetigung_button.grid(row=7, column= 3, ipadx=7, ipady=12)
+        bestaetigung_button.grid()
 
 
         # Buchung tätigen
