@@ -36,9 +36,9 @@ sequenceDiagram
 
 ```mermaid
 architecture-beta
-    service left_disk(disk)[JSON]
-    service top_disk(disk)[CSV]
-    service bottom_disk(disk)[XLSX]
+    service left_disk(disk)[file format JSON]
+    service top_disk(disk)[file format CSV]
+    service bottom_disk(disk)[file format XLSX]
     service top_gateway(server)[GUI]
     service bottom_gateway(server)[APP]
     junction junctionCenter
@@ -53,7 +53,12 @@ architecture-beta
 
 
 ```
+```mermaid
+architecture-beta
+    group api(cloud)[API]
 
+    service db(database)[Database] in api
+```
 ## "Mini-ER" - Beispiel Buchung
 
 ```mermaid
