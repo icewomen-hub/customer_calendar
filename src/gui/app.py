@@ -136,10 +136,6 @@ class App:
         trainers = list(dp.get_data('trainers')['trainer'])
         times = list(timeslots['von'].unique())
         
-        
-        #print(trainers, courses)
-        # exit()
-        
         tk.Label(frame, text="Mitglieds-Nr:").grid(row=5, column=5)
         tk.Entry(frame, textvariable=member_id).grid(row=5, column=6)
         
@@ -149,13 +145,6 @@ class App:
         tk.Label(frame, text="Wähle einen Trainer:").grid(row=5, column=2)
 
 
-        
-        
-        #print(times)
-        #exit()
-
-        
-       
 
         course_var.set(courses[0])
         time_var.set(times[0])

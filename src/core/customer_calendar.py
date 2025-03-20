@@ -7,6 +7,7 @@ class CustomerCalendar:
 
     def __init__(self):
         self.data = pd.read_json(self.data_file)
+        self.data = self.data[self.data['id']>8]
 
     def save(self):
         self.data.to_json(self.data_file)
