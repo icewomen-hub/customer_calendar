@@ -1,6 +1,6 @@
 class GUIConfig:
     
-    app_title = 'Kundenkalender - Login'
+    app_title = 'Kundenkalender'
     menu_topics = None
     font=('Chicago',12, 'normal')
     btn_font=('Chicago',10, 'bold')
@@ -18,6 +18,15 @@ class GUIConfig:
         
         # Menu - Punkte für Admin 
         self.menu_topics = {
+            '☯': ['Übersicht', 'Beenden'],
+            'Kalender': ['Öffnen', 'Speichern', 'Aktuell', 'Suche'],
+            'Kunden': ['Öffnen', 'Speichern', 'Neu', 'Suche', 'Bearbeiten'],
+            'Kurse': ['Termine', 'Trainer', 'Zeiten'],            
+            'Analyse': ['Q1..Q4', 'Suche', 'Auswahl'],
+            '???': ['Web', 'CHM', 'Manpage'],
+        }
+        
+        self.menu_actions = {
             '☯': ['Übersicht', 'Beenden'],
             'Kalender': ['Öffnen', 'Speichern', 'Aktuell', 'Suche'],
             'Kunden': ['Öffnen', 'Speichern', 'Neu', 'Suche', 'Bearbeiten'],

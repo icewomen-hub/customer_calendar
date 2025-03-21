@@ -53,8 +53,9 @@ class App:
 
     def admin(self):
         self.frame = self.workbench()
-
-        self.table = self.table_helper.get_table(self.frame, 'time_slots')
+        hone = tk.Label(self.frame, text="Übersicht  Administration").grid(row=0, column=0)
+        
+        self.table = self.table_helper.get_table(self.frame, 'customer_calendar')
         self.table.grid(row=1, column=2)
         self.table.show()
 
