@@ -1,0 +1,81 @@
+.
+├── customer_calendar
+│   ├── README.md
+│   ├── README_TOO.md
+│   ├── data
+│   │   ├── CalendarLog.json
+│   │   ├── Kursplan.xlsx
+│   │   ├── calendar_log.json
+│   │   ├── course_plan.xlsx
+│   │   ├── customers_database.json
+│   │   ├── customers_new.json
+│   │   ├── kurs.csv
+│   │   ├── passwd.csv
+│   │   ├── time_slot.csv
+│   │   ├── trainer.csv
+│   │   └── wochentag.csv
+│   ├── doq
+│   │   ├── admin_customer_small.png
+│   │   ├── cc_doq.ipynb
+│   │   └── tech_doc.md
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── src
+│   │   ├── core
+│   │   │   ├── __init__.py
+│   │   │   ├── __pycache__
+│   │   │   │   ├── __init__.cpython-313.pyc
+│   │   │   │   ├── calendar.cpython-313.pyc
+│   │   │   │   ├── customer_calendar.cpython-313.pyc
+│   │   │   │   ├── customers.cpython-313.pyc
+│   │   │   │   ├── data_provider.cpython-313.pyc
+│   │   │   │   ├── my.cpython-313.pyc
+│   │   │   │   ├── state.cpython-313.pyc
+│   │   │   │   └── table_helper.cpython-313.pyc
+│   │   │   ├── auth.py
+│   │   │   ├── calendar_log.py
+│   │   │   ├── customer_calendar.py
+│   │   │   ├── customers.py
+│   │   │   ├── data_provider.py
+│   │   │   └── table_helper.py
+│   │   ├── gui
+│   │   │   ├── __init__.py
+│   │   │   ├── __pycache__
+│   │   │   │   ├── __init__.cpython-313.pyc
+│   │   │   │   ├── app.cpython-313.pyc
+│   │   │   │   ├── config.cpython-313.pyc
+│   │   │   │   ├── login.cpython-313.pyc
+│   │   │   │   └── menu_helper.cpython-313.pyc
+│   │   │   ├── app.py
+│   │   │   ├── app_new.py
+│   │   │   ├── config.py
+│   │   │   ├── foo.php
+│   │   │   ├── gf_gui.ipynb
+│   │   │   ├── login.py
+│   │   │   ├── main.py
+│   │   │   ├── menu_helper.py
+│   │   │   └── mitarbeit.py
+│   │   ├── main.py
+│   │   ├── test_dp.py
+│   │   └── test_import.py
+│   ├── tests
+│   └── tmp
+│       ├── 250310_TA07_Kundenkalender_Christine_Eis.ipynb
+│       ├── Aufgabenstellung.ipynb
+│       ├── Aufteilung_Projektaufgaben.ipynb
+│       ├── buchungen.json
+│       ├── cal.py
+│       ├── customer.py
+│       ├── foo.txt
+│       ├── gui_pouria.ipynb
+│       ├── main_pouria.py
+│       ├── main_test.ipynb
+│       ├── muell.py
+│       ├── muell2.py
+│       ├── my.py
+│       ├── pouria_Gast.ipynb
+│       ├── state.py
+│       └── vorläufige_Ordnerstruktur.ipynb
+└── file.txt
+
+10 directories, 68 files
