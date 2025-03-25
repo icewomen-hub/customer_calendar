@@ -245,7 +245,7 @@ class App:
         dir_path = os.path.dirname(os.path.realpath(__file__))
         print(dir_path)
 
-    def workbench(self):
+    def  workbench(self):
         ''' “Arbeitstisch„  je Rolle'''
 
         design = self.config.design_by_role[self.role]

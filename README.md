@@ -19,9 +19,9 @@ Externe Libraries:
 
 ### Abhängigkeiten automatisiert auflösen
 
-<code>customer_calendar %</code><kbd>pip install -r requirements.txt</kbd>
+<code>customer_calendar % </code><kbd>pip install -r requirements.txt</kbd>
 <pre>
-<code>customer_calendar> Collecting pandastable==0.13.1 (from -r requirements.txt) ...</code>
+<code>customer_calendar % Collecting pandastable==0.13.1 (from -r requirements.txt) ...</code>
 </pre>
 
 ## Dateistruktur
@@ -29,12 +29,12 @@ Externe Libraries:
 ### Verzeichnisse und Beschreibung
 
 <pre><code>
-├── customer_calendar
-│   ├── data
-│   ├── doq
-│   ├── src
-│   │   ├── core
-│   │   ├── gui
+customer_calendar
+    ├── data
+    ├── doq
+    ├── src
+    │   ├── core
+    │   ├── gui
     └── tests
 </code></pre>
 
